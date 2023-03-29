@@ -24,6 +24,7 @@ O código desse site é baseado no código fonte do [@enjidev](https://github.co
 - Informações de texto
 - Adicionado Google Analytics
 - Novo formato de metadata
+- Novo sitemap nextjs
 
 <br>
 
