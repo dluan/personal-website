@@ -23,6 +23,7 @@ O código desse site é baseado no código fonte do [@enjidev](https://github.co
 - Imagens de perfil na página inicial e Favicon
 - Informações de texto
 - Adicionado Google Analytics
+- Novo formato de metadata
 
 <br>
 
