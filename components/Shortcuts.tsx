@@ -15,7 +15,7 @@ const focusToast = {
 }
 
 export default function Shortcuts() {
-  const toastRef = useRef()
+  const toastRef = useRef<any>()
   const { theme, setTheme } = useTheme()
   const { isQuickAccessOpen, setQuickAccessOpen } = useGlobal()
   const { focusMode, setFocusMode } = useFocusMode()

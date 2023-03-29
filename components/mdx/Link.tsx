@@ -18,7 +18,7 @@ export function QuickView({ href, children }: QuickViewProps) {
 
     const newWindow = window.open(href.toString(), title, `width=${width},height=${height},left=${left},top=${top}`)
 
-    newWindow.focus()
+    newWindow?.focus()
   }
 
   return (
