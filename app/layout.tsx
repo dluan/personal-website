@@ -56,7 +56,10 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="pt-BR">
-      <Script id="urlAnalytics" src="https://www.googletagmanager.com/gtag/js?id=G-V87ZW8M2R3" />
+      <Script
+        id="urlAnalytics"
+        src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_TRACKING}`}
+      />
       <Script
         id="bodyAnalytics"
         dangerouslySetInnerHTML={{
@@ -64,7 +67,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
       
-        gtag('config', 'G-V87ZW8M2R3', {
+        gtag('config', '${process.env.NEXT_PUBLIC_GA_TRACKING}', {
           page_path: window.location.pathname,
         });`
         }}
