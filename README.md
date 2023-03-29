@@ -2,7 +2,7 @@
 
 ![og-image](https://user-images.githubusercontent.com/1024699/228562791-8c349598-1b03-4e73-ae4c-590df1d81cd7.png)
 
-[dluan.com.br](https://dluan.com.br)
+<a target="_blank" href="https://dluan.com.br">https://dluan.com.br</a>
 
 Nele eu apresento meu portfolio, informações acadêmicas e técnicas, além de todas as ferramentas que utilizo para executar meu trabalho.
 
