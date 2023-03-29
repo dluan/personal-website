@@ -140,7 +140,7 @@ export default function Footer() {
                     },
                     {
                       title: 'Código fonte',
-                      href: 'https://github.com/enjidev/enji.dev',
+                      href: 'https://github.com/dluan/personal-website',
                       isInternal: false
                     }
                   ]}
