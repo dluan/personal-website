@@ -27,8 +27,8 @@ export const metadata = {
     siteName: 'Denner Luan · Desenvolvedor Front-End',
     images: {
       url: 'https://dluan.com.br/assets/images/og-image.jpg',
-      width: 1899,
-      height: 914,
+      width: 1200,
+      height: 630,
       type: 'image/jpeg'
     }
   },
