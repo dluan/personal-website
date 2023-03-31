@@ -26,7 +26,7 @@ export default function Logo({ active = false }: LogoProps) {
       </div>
       <div className={clsx('-mt-1 hidden text-xl', 'sm:block')}>
         <span className={clsx('text-slate-900 font-plusjakartasans', 'dark:text-slate-200')}>denner</span>
-        <span className={clsx('text-accent-600 font-plusjakartasans', 'dark:text-accent-500')}>dev</span>
+        <span className={clsx('text-accent-600 font-plusjakartasans', 'dark:text-accent-500')}>luan</span>
       </div>
     </div>
   )
