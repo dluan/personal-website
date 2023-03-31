@@ -26,7 +26,7 @@ export const metadata = {
     url: 'https://dluan.com.br/',
     siteName: 'Denner Luan · Desenvolvedor Front-End',
     images: {
-      url: 'https://dluan.com.br/assets/og-image.png',
+      url: 'https://dluan.com.br/assets/images/og-image.png',
       width: 1899,
       height: 914,
       type: 'image/png'
@@ -37,7 +37,7 @@ export const metadata = {
     title: 'Denner Luan · Desenvolvedor Front-End',
     description:
       'Apresento meu portfolio onde desenvolvo sites, sistemas, blogs com React, Next.js, Tailwind CSS. Além disso veja um pouco sobre minha carreira e área de trabalho.',
-    images: ['https://dluan.com.br/assets/og-image.png']
+    images: ['https://dluan.com.br/assets/images/og-image.png']
   }
 }
 
