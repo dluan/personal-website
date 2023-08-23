@@ -40,9 +40,9 @@ export default function Header() {
           <nav className={clsx('flex', 'md:gap-2')} data-accent="violet">
             <NavLogo href="/" title="Home" />
             <ul className={clsx('flex items-center', 'md:gap-1')}>
-              <li>
+              {/* <li>
                 <NavLink title="Projetos" href="/projetos" />
-              </li>
+              </li> */}
 
               {/* <li>
                 <NavLink title="H.E.A" href="/today-i-learned" />

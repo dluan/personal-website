@@ -23,7 +23,7 @@ interface HeaderCtaProps {
 
 function ButtonContactMe() {
   return (
-    <Link href="/work/contact" className={clsx('button button--solid min-w-[128px]', 'md:button--big')}>
+    <Link href="/contato" className={clsx('button button--solid min-w-[128px]', 'md:button--big')}>
       Vamos conversar
     </Link>
   )
